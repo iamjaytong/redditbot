@@ -4,7 +4,7 @@ import time
 
 USERAGENT = "/u/jaytongsays comment bot to help other redditors discover top songs of an artist submitted to a music subreddit"
 USERNAME = "bopfm_bot"
-PASSWORD = "s0undch3ck123"
+PASSWORD = "YOUR PASSWORD"
 SUBREDDIT = 'listentothis'
 LIMIT = 10
 KEYWORDS = [" -- "," - "]
